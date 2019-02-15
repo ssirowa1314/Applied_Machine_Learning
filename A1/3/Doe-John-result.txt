@@ -1,0 +1,11 @@
+accuracy of fold 1: 0.8306
+accuracy of fold 2: 0.8204
+accuracy of fold 3: 0.7939
+accuracy of fold 4: 0.8347
+accuracy of fold 5: 0.8204
+accuracy of fold 6: 0.8143
+accuracy of fold 7: 0.8347
+accuracy of fold 8: 0.8000
+accuracy of fold 9: 0.7710
+accuracy of fold 10: 0.8139
+average accuracy: 0.8134

@@ -1,0 +1,15 @@
+1) File Description of folder 3
+   Without_Cross_Validation.py: Simple Decision Tree, answer of part a. Apart from this file all codes are implemented with cross validation
+
+   Entropy.py: DT using Entropy and Information Gain as metric
+
+   Entropy_pruning.py: DT using Entropy and Information Gain as metric. Pruning Technique is used here.
+
+   Gini.py: DT using Gini Index Gain as metric
+
+   Gini_pruning.py: DT using Gini Index Gain as metric. Pruning Technique is used here.
+
+2) File Description of folder 4:
+	4.py: Implementation of kaggle problem using KNN, DT, Naive Bayes. It emits DT_1.csv (Test using Decision Tree) and NB_1.csv(Test using Naive Bayes).
+	DT_1.csv: Test using Decision Tree
+	NB_1.csv: Test using Naive Bayes
